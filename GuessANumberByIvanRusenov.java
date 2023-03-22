@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static void GuessANumber(String[] args) {
+    public static void GuessTheNumber(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
